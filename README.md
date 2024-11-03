@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ineededformypi
-- 👀 I’m interested in c++
+- 👀 I’m interested in pcb's
 - 🌱 I’m currently learning c++
-- 😄 Pronouns: he/him or walmart bag
-- ⚡ Fun fact:i am working on a game
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:I am using Linux
 
 <!---
 ineededformypi/ineededformypi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
